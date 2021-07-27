@@ -1,4 +1,4 @@
-# Dots-and-Boxes
+# Q-Learning Agent for Dots and Boxes
 - The application can be compiled from source by typing "make" in the the terminal.
 - Once you run the application, you can either play a game or train a q-learning agent.
 - To play against a q-learning agent, train against a q-learning agent or train a pre-trained agent, you must ensure that a pre-trained agent exists.
